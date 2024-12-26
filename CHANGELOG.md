@@ -1,5 +1,7 @@
 # Changelog
 
+## <small>0.3.1 (2024-12-26)</small>
+
 ## 0.3.0 (2024-12-26)
 
 * feat: add CI setup ([1014539](https://github.com/henrique-blue/versioning-test/commit/1014539))
