@@ -7,8 +7,13 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "release": "release-it",
     "commit": "git-cz",
     "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henrique-blue/versioning-test.git"
   },
   "dependencies": {
     "next": "15.1.2",
@@ -32,6 +37,8 @@
     "lint-staged": "^15.2.11",
     "postcss": "^8",
     "prettier": "^3.4.2",
+    "release-it": "^17.11.0",
+    "release-it-pnpm": "^4.6.3",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   },
