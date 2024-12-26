@@ -23,7 +23,7 @@ export default {
         name: 'conventionalcommits',
         types: [
           {
-            type: 'feat',
+            type: 'feat:',
             section: 'Features'
           },
           {
